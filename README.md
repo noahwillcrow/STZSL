@@ -1,3 +1,5 @@
+# Sample Transfer Zero Shot Learning
+
 Based on the journal article by Yuchen Guo, Guiguang Ding, Jungong Han, and Yue Gao, 
 "Zero-shot learning with transferred samples." 
 Published in IEEE Transactions on Image Processing, 26(7):3277–3290, 2017.
